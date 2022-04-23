@@ -1,0 +1,212 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: azure;
+}
+
+.navbar{
+
+    height: 120px;
+    background-color: #112e6b;
+    margin-bottom: 50px;
+    
+}
+
+.navbar img{
+
+    border-radius: 50%;
+    text-align: center;
+    float: left;
+    position: relative;
+    margin-right: 10px;
+    margin: 25px 16px 0px 10px;
+}
+
+.navbar h2{
+    color: whitesmoke;
+    position: relative;
+    top: 38px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.navbar ul{
+    list-style: none;
+    margin-right: 40px;
+}
+
+.navbar ul li{
+    display: inline;
+    float: right;
+
+}
+
+.navbar li a{
+
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 16px;
+}
+
+.navbar li a:hover{
+
+    color: green;
+}
+
+.upper-portion{
+
+     background-color: #83AD5F;
+     height: 200px;
+     text-align: center;
+     padding-top: 25px;
+     line-height: 2;
+}
+
+.name{
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    color: #248d32;
+}
+.title{
+    
+    font-family:cursive;    
+    color: #248d32;
+}
+
+#middle-portion{
+
+    text-align: center;
+    margin-top: 16px;
+}
+
+#middle-portion h2{
+ 
+    font-family:monospace;
+    color: rgb(55, 161, 165);
+    font-weight: 700;
+}
+
+#middle-portion p{
+
+    font-family: sans-serif;
+    font-weight: 600;
+    margin: 0 20%;
+    line-height: 2;
+}
+
+#education-portion{
+
+    text-align: left;
+    width: 50%;
+    margin:90px 300px 90px 300px;
+}
+
+#education-portion img{
+
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    margin-left: 8px;
+}
+
+#education-portion h2{
+
+    font-family:monospace;
+    color: rgb(55, 161, 165);
+}
+
+#education-portion p{
+
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 2; 
+       
+}
+
+.skill-portion{
+
+    text-align: center;
+    margin: 120px 300px  90px 300px;
+}
+
+.skill-portion img{
+
+    float: right;
+    margin-right: 8px;
+    margin-left: 5px;
+    border-radius: 40%;
+    
+}
+
+.skill-portion h2{
+
+    font-family:monospace;
+    color: rgb(55, 161, 165);
+    text-align: left;
+    margin-left: 8px;
+}
+
+.skill-portion p{
+
+    text-align: left;
+    margin-left: 8px;
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 2; 
+
+}
+
+ol li{
+
+    text-align: left;
+    margin-left: 8px;
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 2; 
+}
+
+#footer{
+
+    height: 150px;
+    background-color: #112e6b;
+    text-align: center;
+
+}
+
+footer ul{
+    list-style: none;
+
+}
+
+footer ul li{
+    text-decoration: none;
+    display: inline;
+    position: relative;
+    top: 40px;
+    word-spacing: 40px;
+}
+
+footer ul li a{
+
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer ul li a:hover{
+
+    color: rgb(150, 89, 19);
+}
+
+footer h2{
+
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: whitesmoke;
+     position: relative;
+     top: 16px;
+}
+
